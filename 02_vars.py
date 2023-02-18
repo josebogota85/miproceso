@@ -18,4 +18,4 @@ print("usando input ", my_name)
 
 variables="Las variables son el corazón de cualquier lenguaje de programación es necesario tener claro como funcionan"
 
-print("variables")
+print(variables)
