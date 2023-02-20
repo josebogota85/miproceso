@@ -1,4 +1,4 @@
-print("Hola, esto es pytjon")
+print("Hola, esto es python")
 #Saludo
 print("Hola soy Nicólas y tengo 12 años")
 #Operaciones matemáticas
