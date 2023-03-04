@@ -7,8 +7,10 @@ print(type(name))
 
 #Tenngo que tener en cuenta que si no tenemos los mismos tipos de datos en ocaciones habrán operaciones que no se podrán hacer.
 
-print("Jose"+ "27")
-#este código va a generar un error debido a que no es posible concatenar un número con un strin
+"""
+print("Jose"+ 27)
+este código va a generar un error debido a que no es posible concatenar un número con un strin
+"""
 
 #En este ejemplo si vamos a poder ejecutar el programa por que los datos son de la misma naturaleza
 
